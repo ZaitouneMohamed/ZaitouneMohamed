@@ -1,5 +1,5 @@
 # 💫 About Me:
-my name is mohamed zaitoune<br>i am Back-End senior devloper<br>
+my name is mohamed zaitoune<br>i am Back-End junior devloper<br>
 
 
 ## 🌐 Socials:
