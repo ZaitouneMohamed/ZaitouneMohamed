@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Africa-It<br>🌱 I’m currently learning : Node-js & Express<br>💬 Ask me about : PHP & LARAVEL
+🔭 I’m currently working on : Africa-It<br>🌱 I’m currently learning : Vue js<br>💬 Ask me about : PHP & LARAVEL
 
 
 ## 🌐 Socials:
