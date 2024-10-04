@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Africa-It<br>🌱 I’m currently learning : Vue js<br>💬 Ask me about : PHP & LARAVEL
+🔭 I’m currently working on : sage-gestion-commerciale <br>🌱 I’m currently learning : Vue js<br>💬 Ask me about : PHP & LARAVEL
 
 
 ## 🌐 Socials:
@@ -20,9 +20,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ZaitouneMohamed&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ZaitouneMohamed&icon=2&color=6)](https://visitcount.itsvg.in)
