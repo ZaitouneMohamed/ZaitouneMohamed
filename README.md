@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : sage-gestion-commerciale <br>🌱 I’m currently learning : Vue js<br>💬 Ask me about : PHP & LARAVEL
+🌱 I’m currently learning : Vue js<br>💬 Ask me about : PHP & LARAVEL
 
 
 ## 🌐 Socials:
