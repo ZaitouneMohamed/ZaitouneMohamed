@@ -1,6 +1,10 @@
+<div align="center">
+    
+
 # Hey there! 👋 , I'm Mohamed Zaitoune
 
-> Web Developer crafting clean, scalable web applications
+> Turning ideas into code with Laravel & Modern Web Tech
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-zaitoune/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
