@@ -6,9 +6,6 @@
 > Turning ideas into code with Laravel & Modern Web Tech
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-zaitoune/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedztn3@gmail.com)
-
 ### What I Do 🚀
 
 Building robust web applications with:
@@ -31,6 +28,9 @@ return [
 
 ### Get in Touch 📫
 DMs open for collaboration on Laravel projects and technical discussions!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-zaitoune/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedztn3@gmail.com)
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaitouneMohamed&show_icons=true&theme=dracula)
