@@ -5,6 +5,14 @@
 
 </div>
 
+### About Me 💫
+- 🎯 Learning and implementing clean code practices in Laravel development
+- 💡 Building my experience with scalable web applications
+- 🌱 Enthusiastic about growing in the PHP ecosystem
+- 👥 Eager to collaborate and learn from team experiences
+- 🚀 Committed to writing clear, maintainable code
+- 🐧 Linux enthusiast and daily user
+
 ### What I Do 🚀
 Building robust web applications with:
 ```php
@@ -16,13 +24,6 @@ return [
 ];
 ```
 
-### About Me 💫
-- 🎯 Learning and implementing clean code practices in Laravel development
-- 💡 Building my experience with scalable web applications
-- 🌱 Enthusiastic about growing in the PHP ecosystem
-- 👥 Eager to collaborate and learn from team experiences
-- 🚀 Committed to writing clear, maintainable code
-- 🐧 Linux enthusiast and daily user
 
 ### Get in Touch 📫
 DMs open for collaboration on Laravel projects and technical discussions!
