@@ -22,6 +22,7 @@
 I'm a backend-focused web developer who builds applications with **Laravel** and the modern PHP ecosystem. I care about writing code that is clear, tested, and easy for the next developer to pick up — and I'm continuously sharpening my skills in clean architecture and scalable system design.
 
 - **Focus** — Designing robust REST APIs and maintainable Laravel applications
+- **ERP** — Working with **Sage X3**, bridging business processes and web applications
 - **Approach** — Clean code, SOLID principles, and readable, well-structured projects
 - **Growing in** — Scalable architectures, microservices, and performance optimization
 - **Environment** — Daily Linux user, comfortable in the terminal and containerized workflows
@@ -34,6 +35,10 @@ I'm a backend-focused web developer who builds applications with **Laravel** and
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=php,laravel,vue,react,tailwind,mysql,postgres,docker,linux,git&perline=10" alt="Tech stack" />
+
+<br/><br/>
+
+![Sage X3](https://img.shields.io/badge/Sage_X3-00D639?style=for-the-badge&logo=sage&logoColor=white)
 
 </div>
 
@@ -52,6 +57,7 @@ class MohamedZaitoune
             'backend'      => ['Laravel', 'PHP 8.x', 'REST APIs'],
             'frontend'     => ['Vue.js 3', 'React', 'Livewire', 'Tailwind CSS'],
             'database'     => ['MySQL', 'PostgreSQL', 'Query Optimization'],
+            'erp'          => ['Sage X3'],
             'architecture' => ['Clean Architecture', 'Microservices'],
             'tooling'      => ['Docker', 'Linux', 'Git'],
         ];
