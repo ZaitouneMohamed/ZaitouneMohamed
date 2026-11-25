@@ -1,98 +1,42 @@
-<div align="center">
-
-# Mohamed Zaitoune
-
-### Backend Developer · Laravel & PHP
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF2D20&center=true&vCenter=true&width=520&lines=Building+scalable+web+applications;Laravel+%7C+PHP+8+%7C+REST+APIs;Clean+code.+Maintainable+systems." alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-zaitoune/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedztn3@gmail.com)
-
-</div>
-
----
-
-## About Me
-
-I'm a backend-focused web developer who builds applications with **Laravel** and the modern PHP ecosystem. I care about writing code that is clear, tested, and easy for the next developer to pick up — and I'm continuously sharpening my skills in clean architecture and scalable system design.
-
-- **Focus** — Designing robust REST APIs and maintainable Laravel applications
-- **ERP** — Working with **Sage X3**, bridging business processes and web applications
-- **Approach** — Clean code, SOLID principles, and readable, well-structured projects
-- **Growing in** — Scalable architectures, microservices, and performance optimization
-- **Environment** — Daily Linux user, comfortable in the terminal and containerized workflows
-- **Open to** — Collaboration, code reviews, and learning from experienced teams
-
----
-
-## Tech Stack
+## Selected work
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,vue,react,tailwind,mysql,postgres,docker,linux,git&perline=10" alt="Tech stack" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=zaitounemohamed&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F115373788%3Fu%3Dbe97e98539f99b3b31531946c5de5dde768538b8%26v%3D4" alt="zaitounemohamed hero visual" />
+</p>
 
-<br/><br/>
-
-![Sage X3](https://img.shields.io/badge/Sage_X3-00D639?style=for-the-badge&logo=sage&logoColor=white)
-
-</div>
-
-<br/>
-
-```php
-<?php
-
-namespace App\Developers;
-
-class MohamedZaitoune
-{
-    public function stack(): array
-    {
-        return [
-            'backend'      => ['Laravel', 'PHP 8.x', 'REST APIs'],
-            'frontend'     => ['Vue.js 3', 'React', 'Livewire', 'Tailwind CSS'],
-            'database'     => ['MySQL', 'PostgreSQL', 'Query Optimization'],
-            'erp'          => ['Sage X3'],
-            'architecture' => ['Clean Architecture', 'Microservices'],
-            'tooling'      => ['Docker', 'Linux', 'Git'],
-        ];
-    }
-
-    public function philosophy(): string
-    {
-        return 'Write code that is easy to read, easy to test, and easy to change.';
-    }
-}
-```
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ZaitouneMohamed&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaitouneMohamed&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ZaitouneMohamed&theme=dracula&hide_border=true" alt="GitHub Streak" />
+<p><b>Freelance developer or consultant</b></p>
 
 </div>
 
----
+## The idea behind the work
 
-## Let's Connect
+> Laravel &amp; Modern Web Developer  | Clean Architecture Enthusiast 🚀 | Linux User 🐧
 
-I'm always happy to talk about **Laravel**, backend architecture, or potential collaborations. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mohamed-zaitoune/) or by [email](mailto:mohamedztn3@gmail.com).
+- 📍 Based in **casablanca**
+- 🌐 [Website](https://mohamedzaitoune.com/)
+- 👥 **15** followers · **26** following
 
-<div align="center">
+*Small, useful work over vague claims.*
 
-<sub>Thanks for stopping by — have a great day!</sub>
+## Case studies
 
-</div>
+<table>
+<tr><td width="32%"><b><a href="https://github.com/ZaitouneMohamed/devctl">devctl</a></b></td><td>Local DevOps control center for Fedora: a Bash CLI and web dashboard to run your sites, databases and services on trusted local HTTPS (*.test), with SELinux enforcing.<br/><sub>Shell · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/ZaitouneMohamed/laravel-microservice">laravel-microservice</a></b></td><td>A practical demonstration of Laravel microservices architecture with Auth and Posts services, featuring token-based authentication, cross-service communication, and Docker deployment.<br/><sub>Blade · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/ZaitouneMohamed/routery-dashboard">routery-dashboard</a></b></td><td>Gestion Transport is a modern transport management app built with Laravel, React, and Inertia.js. Manage drivers, trucks, and routes with a smooth, interactive UI. 🚧 WIP.<br/><sub>TypeScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/ZaitouneMohamed/php-mvc-starter">php-mvc-starter</a></b></td><td>A lightweight custom PHP MVC framework with routing, controller support, basic validation, and view rendering. Ideal for learning or small-scale projects.<br/><sub>PHP · 0 stars</sub></td></tr>
+</table>
+
+## Creative toolkit
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) `Blade` ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) `SCSS` ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+## Make something memorable
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=zaitounemohamed&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F115373788%3Fu%3Dbe97e98539f99b3b31531946c5de5dde768538b8%26v%3D4" alt="zaitounemohamed social visual" />
+</p>
+
+<a href="https://github.com/zaitounemohamed">GitHub</a> · <a href="https://mohamedzaitoune.com/">Website</a>
